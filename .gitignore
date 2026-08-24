@@ -1,0 +1,19 @@
+# Azure Functions local settings can contain secrets.
+local.settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local logs and build output
+*.log
+.python_packages/
