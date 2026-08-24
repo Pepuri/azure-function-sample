@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "RESULT_QUEUE_NAME": "intune-results",
+    "MAX_REQUEST_BYTES": "49152"
+  }
+}
